@@ -15,7 +15,7 @@ The Weather App is a web application that allows users to check the current weat
 
 ## Technologies Used
 
-- HTML5
+- HTML
 - CSS3
 - JavaScript 
 - Fetch API
